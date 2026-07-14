@@ -1,0 +1,1904 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chad Monteith</LastAuthor>
+  <Created>2026-07-14T19:14:18Z</Created>
+  <LastSaved>2026-07-14T19:14:07Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>20580</WindowHeight>
+  <WindowWidth>32304</WindowWidth>
+  <WindowTopX>21936</WindowTopX>
+  <WindowTopY>3468</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m1713613294672">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294692">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294712">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m1713613294732">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294752">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294772">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294792">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m1713613294812">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294832">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294852">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294872">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294892">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294912">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613294932">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1713613301056">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#FFFFFF" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#FF9900"
+    ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#FF9900"
+    ss:Italic="1"/>
+   <NumberFormat ss:Format="dd/mm/yyyy"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+  </Style>
+  <Style ss:ID="s42">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s43">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s44">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s45">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s46">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s47">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s48">
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#FFFFFF" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s49">
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s50">
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s51">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s52">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s53">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s54">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s55">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s56">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s57">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s58">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s59">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#EFEFEF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s60">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s61">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#666666"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="14" ss:Color="#000000"/>
+   <Interior ss:Color="#FFF2CC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Familjen Grotesk" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Familjen Grotesk" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+   </Borders>
+   <Font ss:FontName="&quot;Familjen Grotesk&quot;" ss:Size="12" ss:Color="#2D2A27"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="d&quot;-&quot;mmm&quot;-&quot;yyyy"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DADADA"/>
+   </Borders>
+   <Font ss:FontName="&quot;Familjen Grotesk&quot;" ss:Size="9" ss:Color="#2D2A27"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ERs FA VMW-VMW">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="54" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="68.399999999999991"
+   ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="25.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="280.8"/>
+   <Column ss:Width="253.79999999999998"/>
+   <Column ss:AutoFitWidth="0" ss:Width="17.399999999999999"/>
+   <Column ss:AutoFitWidth="0" ss:Width="280.8"/>
+   <Column ss:Width="237"/>
+   <Column ss:AutoFitWidth="0" ss:Width="109.19999999999999"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="40.050000000000004">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294712"><Data ss:Type="String">Everpure Resilience service&#10;Pre-Install Checklist for Deployments with VMware to VMware with FlashArray</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294732"><Data ss:Type="String">Customer Details</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Customer name</Data></Cell>
+    <Cell ss:StyleID="s20"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Customer contact</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Customer email</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Customer phone</Data></Cell>
+    <Cell ss:StyleID="s26"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">Quick Start Guide</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/everpure-protect-service-quick-start-guide"><Data
+      ss:Type="String">Everpure Resilience - Quick Start Guide</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">Everpure Community Portal</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="https://purecommunity.purestorage.com/category/solution-forums/discussions/cyber-resilience"><Data
+      ss:Type="String">Everpure Community - Cyber Resilience</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294752"><Data ss:Type="String">Installation Prerequisites &amp; Requirements</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Licence Key</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Generated and loaded into Pure1</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Pure1 Admin Access</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/enable-everpure-protect-service-access-in-pure1-manage"><Data
+      ss:Type="String">Role setup in Pure1 Manage</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Network &amp; Firewall Requirements for Sites</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/appendix-1-network-firewall-requirements"><Data
+      ss:Type="String">Network Connectivity to Pure1 Manage</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Roles for Service Accounts</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/appendix-2-vmware-vcenter-service-account-role-permissions"><Data
+      ss:Type="String">VMware vCenter Permissions</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vSphere Version</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">7.x or higher</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">VMware NSX</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">POC/CE Required</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">FlashArray Purity Version</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">6.6.3 or higher required</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="17.399999999999999">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">FlashArray Replication - Initial Setup&#10;Note &quot;Configurating Replication&quot; Sections</Data></Cell>
+    <Cell ss:StyleID="s32" ss:HRef="https://support.everpuredata.com/r/asynchronous/asynchronous"><Data
+      ss:Type="String">FlashArray Asynchronous Replication</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="87.6">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">Tools to install in-guest VM for automated network management (i.e re-ip) features.  Windows (powershell) and Linux (sh) scripts included.  Automation supported such as Ansible or MCM/SCCM.</Data></Cell>
+    <Cell ss:StyleID="s34" ss:HRef="http://static.pure1.purestorage.com/pureprotect/pureprotect-tools.zip"><Data
+      ss:Type="String">pureprotect-tools.zip</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeAcross="4" ss:StyleID="m1713613294772"><Data ss:Type="String">Deployment</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294792"><Data ss:Type="String">Deployment Name (Logical Container for Site)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294812"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294852"><Data ss:Type="String">Site - VMware (Complete Per Site Deployed)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294832"><Data ss:Type="String">Site - VMware (Complete Per Site Deployed)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Site Name</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">eg: &lt;city&gt;-&lt;production&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">Site Name</Data></Cell>
+    <Cell ss:StyleID="s36"><Data ss:Type="String">eg: &lt;city&gt;-&lt;production&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">EA VM Name</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">eg: everpure-protect-&lt;sitename&gt;-1</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">EA VM Name</Data></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">eg: everpure-protect-&lt;sitename&gt;-1</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">EA VM Size</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">Large</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">EA VM Size</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">Large</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">EA VM IP Address</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">EA VM IP Address</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Subnet Mask</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Subnet Mask</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Default Gateway</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Default Gateway</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Domain Name</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Domain Name</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">DNS Server(s)</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">DNS Server(s)</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Server name (FQDN)</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">eg: vcenter.customer.local</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Server name (FQDN)</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">eg: vcenter.customer.local</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Service Account</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">eg: svc_pureprotect@vsphere.local</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Service Account</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">eg: svc_pureprotect@vsphere.local</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Service Account password</Data></Cell>
+    <Cell ss:StyleID="s41"><Data ss:Type="String">&lt;Record in your Password Manager&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Service Account password</Data></Cell>
+    <Cell ss:StyleID="s41"><Data ss:Type="String">&lt;Record in your Password Manager&gt;</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Version</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Version</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Local Datastore for VADP Cache</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">vCenter Local Datastore for VADP Cache</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Quota (GiB) : Sizer Recomendation (512GiB Start)</Data></Cell>
+    <Cell ss:StyleID="s42"><Data ss:Type="String">eg: 512GiB</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Quota (GiB) : Sizer Recomendation (512GiB Start)</Data></Cell>
+    <Cell ss:StyleID="s42"><Data ss:Type="String">eg: 512GiB</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s16"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294872"><Data ss:Type="String">FlashArray (Complete Per FlashArray Connected in a Site)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294892"><Data ss:Type="String">FlashArray (Complete Per FlashArray Connected in a Site)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">Management Hostname (FQDN)</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">Management Hostname (FQDN)</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Purity Version</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Purity Version</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Service Account (Storage_Admin Role)</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Service Account (Storage_Admin Role)</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">API Token for Service Account</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">API Token for Service Account</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294912"><Data ss:Type="String">Site Recovery Settings</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294932"><Data ss:Type="String">Site Recovery Settings</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Compute Cluster(s)</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">Compute Cluster(s)</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294672"><Data ss:Type="String">Complete Per vSwitch Used for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613294692"><Data ss:Type="String">Complete Per vSwitch Used for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">Network vSwitch for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s38"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s37"><Data ss:Type="String">Network vSwitch for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s38"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Network IP Range for Recoveries (CIDR)</Data></Cell>
+    <Cell ss:StyleID="s40"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Network IP Range for Recoveries (CIDR)</Data></Cell>
+    <Cell ss:StyleID="s40"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Network Gateway for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Network Gateway for Recoveries</Data></Cell>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
+   <FitToPage/>
+   <Print>
+    <FitHeight>0</FitHeight>
+    <LeftToRight/>
+    <CommentsLayout>SheetEnd</CommentsLayout>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+    <Gridlines/>
+   </Print>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R29C3,R29C6</Range>
+   <Type>List</Type>
+   <Value>Variables!R2C3:R3C3</Value>
+   <InputHide/>
+   <ErrorHide/>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R31C3,R31C6</Range>
+   <Type>List</Type>
+   <Value>Variables!R2C1:R18C1</Value>
+   <InputHide/>
+   <ErrorHide/>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="ERs VMW-AWS">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="42" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="68.399999999999991"
+   ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="25.2"/>
+   <Column ss:AutoFitWidth="0" ss:Width="318.59999999999997"/>
+   <Column ss:Width="253.79999999999998"/>
+   <Row ss:AutoFitHeight="0" ss:Height="40.050000000000004">
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1713613301056"><Data ss:Type="String">Everpure Resilience service&#10;Pre-Install Checklist for Deployments with VMware and AWS</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s48"><Data ss:Type="String">PURE PROTECT //DRaaS Pre Installation Checklist - (yellow cells to be completed by customer, guidance on next tab)</Data></Cell>
+    <Cell ss:StyleID="s48"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Customer Details</Data></Cell>
+    <Cell ss:StyleID="s52"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s53"><Data ss:Type="String">Customer name</Data></Cell>
+    <Cell ss:StyleID="s54"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Customer contact</Data></Cell>
+    <Cell ss:StyleID="s56"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">Customer email</Data></Cell>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s59"><Data ss:Type="String">Quick Start Guide</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/everpure-protect-service-quick-start-guide"><Data
+      ss:Type="String">Everpure Resilience - Quick Start Guide</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Everpure Community Portal</Data></Cell>
+    <Cell ss:StyleID="s28" ss:HRef="https://purecommunity.purestorage.com/category/solution-forums/discussions/cyber-resilience"><Data
+      ss:Type="String">Everpure Community - Cyber Resilience</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Installation Prerequisites</Data></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Value</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s53"><Data ss:Type="String">Licence Key</Data></Cell>
+    <Cell ss:StyleID="s54"><Data ss:Type="String">Generated and loaded into Pure1</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Pure1 Admin Access</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/enable-everpure-protect-service-access-in-pure1-manage"><Data
+      ss:Type="String">Role setup in Pure1 Manage</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Network &amp; Firewall Requirements</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/appendix-1-network-firewall-requirements"><Data
+      ss:Type="String">Network Connectivity to Pure1 Manage</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Service Account Role</Data></Cell>
+    <Cell ss:StyleID="s30" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/appendix-2-vmware-vcenter-service-account-role-permissions"><Data
+      ss:Type="String">VMware vCenter Permissions</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">AWS Cloud Formation Template</Data></Cell>
+    <Cell ss:StyleID="s60" ss:HRef="https://support.everpuredata.com/r/everpure-resilience-service/creating-an-aws-cloudformation-stack"><Data
+      ss:Type="String">Cloud Formation Stack Setup</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Site Deployment (On-Premises vCenter)</Data></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Value</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Deployment Name</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Site Name</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">EA VM Name</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">eg: everpure-protect-&lt;sitename&gt;-1</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">EA VM IP Address</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Subnet Mask</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Default Gateway</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Domain name</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">DNS Server</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Server name (FQDN)</Data></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">eg: vcenter.customer.local</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Service Account</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Service Account password</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;Record in your Password Manager&gt;</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Version</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">vCenter Local Datastore for VADP Cache</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">Quota (GiB) : Sizer Recomendation (512GiB Start)</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">eg: 512GiB</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Site Deployment (Cloud)</Data></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">Value</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s53"><Data ss:Type="String">AWS Site Name</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">AWS VPC Network</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">e.g. 10.100.0.0</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">AWS VPC Network Subnet</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">Existing VPC ID (Optional)</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">AWS Region</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">us-east-2, US East (Ohio)</Data></Cell>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">VPC Recovery Subnet</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">VPC Recovery Security Group</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R23C3</Range>
+   <Type>List</Type>
+   <Value>#REF!</Value>
+   <InputHide/>
+   <ErrorHide/>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R37C3</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;16,18,21&quot;</Value>
+   <InputHide/>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R39C3</Range>
+   <Type>List</Type>
+   <Value>Variables!R2C2:R18C2</Value>
+   <InputHide/>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="Variables">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="68.399999999999991"
+   ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:Width="210"/>
+   <Column ss:AutoFitWidth="0" ss:Width="155.39999999999998"/>
+   <Column ss:AutoFitWidth="0" ss:Width="108"/>
+   <Column ss:AutoFitWidth="0" ss:Width="71.400000000000006"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Subnet</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">AWS Regions (Supported)</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Edge Appliance Sizing</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Revised</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/32</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">us-west-2, US West (Oregon)</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Large</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="DateTime">2026-07-14T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/31</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">us-west-1, US West (N. California)</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Medium</Data></Cell>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/30</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">us-east-2, US East (Ohio)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/29</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">us-east-1, US East (Virginia)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/28</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">sa-east-1, South America (São Paulo)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/27</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">me-central-1, Middle East (UAE)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/26</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">il-central-1, Israel (Tel Aviv)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/25</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">eu-west-2, Europe (London)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/24</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">eu-south-1, Europe (Milan)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/23</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">eu-central-1, Europe (Frankfurt)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/22</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ca-west-1, Canada West (Calgary)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/21</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ca-central-1, Canada (Central)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/20</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ap-southeast-2, Asia Pacific (Sydney)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/19</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ap-south-1, Asia Pacific (Mumbai)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/18</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ap-northeast-1, Asia Pacific (Tokyo)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/17</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ap-east-1, Asia Pacific (Hong Kong)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">/16</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">af-south-1, Africa (Cape Town)</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
