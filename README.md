@@ -5,7 +5,7 @@ Everpure Resilience service Pre-Installation Checklist
 The checklist is used to gather data that is required as part of a deployment and configuration of sites. 
 
 ## Usage
-The file is a spreadsheet provided in Microsoft XLS and in XML format.
+The checklist is a spreadsheet provided in Microsoft Excel format.
 
 ## Support
 You may file an issue, or seek support in the Everpure Community [purecommunity.purestorage.com](https://purecommunity.purestorage.com/category/solution-forums/discussions/cyber-resilience), or contact your Sales Team.
